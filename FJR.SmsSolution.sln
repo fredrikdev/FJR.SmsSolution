@@ -1,0 +1,26 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FJR.Sms", "FJR.Sms\FJR.Sms.csproj", "{0F1A23AE-7F61-4F04-AC69-D153C8374CAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FJR.SmsManager", "FJR.SmsManager\FJR.SmsManager.csproj", "{4A177A61-93F7-4C54-805B-5D94F63BFBB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F1A23AE-7F61-4F04-AC69-D153C8374CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1A23AE-7F61-4F04-AC69-D153C8374CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1A23AE-7F61-4F04-AC69-D153C8374CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1A23AE-7F61-4F04-AC69-D153C8374CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A177A61-93F7-4C54-805B-5D94F63BFBB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A177A61-93F7-4C54-805B-5D94F63BFBB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A177A61-93F7-4C54-805B-5D94F63BFBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A177A61-93F7-4C54-805B-5D94F63BFBB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
